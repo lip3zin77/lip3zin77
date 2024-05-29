@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💚
 
-<!--
-**lip3zin77/lip3zin77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Felipe Gabriel
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha oranizaçâo e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quer entrar em contato comigo 📬
+
+00001091521153SP@al.educacao.sp.gov.br
+
+@lip3zin_77
+
+![](https://tenor.com/pt-BR/view/happy-to-see-you-tao-xu-elle-argent-heartstopper-i-missed-you-gif-8808815171857941193)
