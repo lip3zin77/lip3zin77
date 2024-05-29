@@ -12,4 +12,5 @@ Meu nome é Felipe Gabriel
 
 @lip3zin_77
 
+
 ![](https://tenor.com/pt-BR/view/happy-to-see-you-tao-xu-elle-argent-heartstopper-i-missed-you-gif-8808815171857941193)
